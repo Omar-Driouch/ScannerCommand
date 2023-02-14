@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\ScannerCommands\bin\Debug\net6.0-windows\ScannerCommands.exe
+C:\Users\Asus\source\repos\ScannerCommands\bin\Debug\net6.0-windows\ScannerCommands.deps.json
+C:\Users\Asus\source\repos\ScannerCommands\bin\Debug\net6.0-windows\ScannerCommands.runtimeconfig.json
+C:\Users\Asus\source\repos\ScannerCommands\bin\Debug\net6.0-windows\ScannerCommands.dll
+C:\Users\Asus\source\repos\ScannerCommands\bin\Debug\net6.0-windows\ScannerCommands.pdb
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.Form1.resources
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.dll
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\refint\ScannerCommands.dll
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.pdb
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ScannerCommands.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ScannerCommands\obj\Debug\net6.0-windows\ref\ScannerCommands.dll
